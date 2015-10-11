@@ -1,0 +1,14 @@
+name: My Blag
+markdown: redcarpet
+highlighter: pygments
+github: https://www.github.com/eternalnoob
+about: I am computer science student in the Bay area, I love Natural Language Processing and Machine Learning, and I'm a Sucker for Grand Strategy
+urls:
+    - text: github
+      url: https://github.com/eternalnoob
+    - text: email
+      url: mailto:ethan.seither@gmail.com
+    - text: twitter
+      url: https://twitter.com/EthanSeither
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/ethanseither
